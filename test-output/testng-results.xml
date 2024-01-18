@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-14T21:31:06 IST" name="Default suite" finished-at="2024-01-14T21:31:13 IST" duration-ms="6895">
+    <groups>
+    </groups>
+    <test started-at="2024-01-14T21:31:06 IST" name="Default test" finished-at="2024-01-14T21:31:13 IST" duration-ms="6895">
+      <class name="com.lms.test.SeleniumUpdateTest">
+        <test-method is-config="true" signature="initializer()[pri:0, instance:com.lms.test.SeleniumUpdateTest@6fa51cd4]" started-at="2024-01-14T21:31:06 IST" name="initializer" finished-at="2024-01-14T21:31:06 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializer -->
+        <test-method signature="loadGooglePage()[pri:0, instance:com.lms.test.SeleniumUpdateTest@6fa51cd4]" started-at="2024-01-14T21:31:06 IST" name="loadGooglePage" finished-at="2024-01-14T21:31:11 IST" duration-ms="5379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadGooglePage -->
+        <test-method signature="update()[pri:0, instance:com.lms.test.SeleniumUpdateTest@6fa51cd4]" started-at="2024-01-14T21:31:11 IST" name="update" finished-at="2024-01-14T21:31:12 IST" duration-ms="328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.lms.test.SeleniumUpdateTest@6fa51cd4]" started-at="2024-01-14T21:31:12 IST" name="close" finished-at="2024-01-14T21:31:13 IST" duration-ms="1121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.lms.test.SeleniumUpdateTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
