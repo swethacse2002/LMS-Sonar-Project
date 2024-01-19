@@ -1,4 +1,4 @@
-//package com.lms.test;
+package com.lms.test;
 //
 //import org.openqa.selenium.By;
 //import org.openqa.selenium.WebDriver;
