@@ -17,8 +17,8 @@ import org.springframework.web.bind.annotation.RestController;
 import com.lms.bean.Laptop;
 import com.lms.dao.LaptopDAO;
 
-@RestController
-@CrossOrigin("http://localhost:4200/")
+//@RestController
+//@CrossOrigin("http://localhost:4200/")
 public class LMSController {
 
 	@Autowired
